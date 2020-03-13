@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_PencilFilter
+  m_Shader: {fileID: -6465566751694194690, guid: 1e2df786d458c18468eee82fc0f11900,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2DArray_86470C7E:
+        m_Texture: {fileID: 18700000, guid: 2299afe3c40833f42af3291830dbd430, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_620E34F0:
+        m_Texture: {fileID: 2800000, guid: b5a0a5cd2a111004ea5dc9575baf5bb7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2C24E34A: 2.5
+    - Vector1_3DF14B29: 0
+    - Vector1_4FF13AB0: 2
+    - Vector1_632EADB7: 7
+    - Vector1_7E9261B2: 0.25
+    - Vector1_9D9EFD0D: 0
+    - Vector1_EFC063D5: 1
+    m_Colors:
+    - Vector2_8F4F7BC: {r: 8, g: 8, b: 0, a: 0}

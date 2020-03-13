@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Material
+  m_Shader: {fileID: 4800000, guid: bad690f2633b6c097e0fb25b3d42cd61, type: 3}
+  m_ShaderKeywords: _TRIPLANAR _TEX2DARRAY
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap10:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap11:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap12:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap13:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap14:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap15:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap16:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap17:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap18:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap19:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap7:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap8:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMapArr:
+        m_Texture: {fileID: 18700000, guid: 05a5a4c60440ccabdf5c3352ab7e2bd2, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HorizonHeightmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HorizonTypemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HorizonVisibilityMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex10:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex11:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex12:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex13:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex14:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex15:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex16:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex17:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex18:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex19:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex7:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex8:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexArr:
+        m_Texture: {fileID: 18700000, guid: 3a18215054b434c7bf83da3ae44c46dd, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientOcclusion: 1
+    - _BlendCrisp: 4.2
+    - _BlendMapFactor: 8
+    - _Culling: 2
+    - _FarEnd: 100
+    - _FarStart: 10
+    - _FarTile: 0.01
+    - _Height0: 1
+    - _Height1: 1
+    - _Height10: 1
+    - _Height11: 1
+    - _Height12: 1
+    - _Height13: 1
+    - _Height14: 1
+    - _Height15: 1
+    - _Height16: 1
+    - _Height17: 1
+    - _Height18: 1
+    - _Height19: 1
+    - _Height2: 1
+    - _Height20: 1
+    - _Height21: 1
+    - _Height22: 1
+    - _Height23: 1
+    - _Height3: 1
+    - _Height4: 1
+    - _Height5: 1
+    - _Height6: 1
+    - _Height7: 1
+    - _Height8: 1
+    - _Height9: 1
+    - _HorizonBorderLower: 2
+    - _HorizonHeightScale: 200
+    - _Mips: -0.1
+    - _PreviewType: 0
+    - _Tile: 0.1
+    m_Colors:
+    - _SpecParams0: {r: 0.05, g: 0.3, b: 0.2, a: 0.6}
+    - _SpecParams1: {r: 0.05, g: 0.3, b: 0.2, a: 0.7}
+    - _SpecParams10: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams11: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams12: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams13: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams14: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams15: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams16: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams17: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams18: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams19: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams2: {r: 0.05, g: 0.3, b: 0.1, a: 0.6}
+    - _SpecParams20: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams21: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams22: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams23: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams3: {r: 0.05, g: 0.3, b: 0.2, a: 0.6}
+    - _SpecParams4: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams5: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams6: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams7: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams8: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
+    - _SpecParams9: {r: -0.75, g: 0.25, b: -0.35, a: 1.5}
